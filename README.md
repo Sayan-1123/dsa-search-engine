@@ -37,8 +37,7 @@ It leverages **web scraping**, **efficient data storage**, and a **Node.js backe
    http://localhost:3000
    ```
 
-## 📷 Screenshots
-(Add your UI screenshots here)
+
 
 ## 📄 License
 This project is licensed under the MIT License.
